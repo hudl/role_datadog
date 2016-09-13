@@ -1,4 +1,4 @@
-# role_datadog
+# datadog-cookbook
 
 TODO: Enter the cookbook description here.
 
