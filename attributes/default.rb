@@ -1,1 +1,1 @@
-default['datadog']['use_ec2_instance_id'] = true
+default['datadog']['use_ec2_instance_id'] = false
